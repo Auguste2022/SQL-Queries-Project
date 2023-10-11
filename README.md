@@ -43,16 +43,7 @@ Create visualizations of SQL results.
 Create a presentation of findings.
 
 Tableau Links
-https://public.tableau.com/app/profile/auguste.shikongo/viz/SalesAcrossGeographiccountries/Sheet1?publish=yes
 
-https://public.tableau.com/app/profile/auguste.shikongo/viz/HighLifetimeValueCustomers_16925866924940/Sheet1?publish=yes
-
-https://public.tableau.com/app/profile/auguste.shikongo/viz/CustomerGeography/Sheet1?publish=yes
-
-https://public.tableau.com/app/profile/auguste.shikongo/viz/Topcountriesbycustomersnumbers/Sheet1?publish=yes
-
-https://public.tableau.com/app/profile/auguste.shikongo/viz/Topcitiesbycustomersnumber/Sheet1?publish=yes
-![image](https://github.com/Auguste2022/SQL-Queries-Project/assets/147554260/f00dfef8-658f-4a52-8c20-f02b7dffcbf8)
 
 
 
