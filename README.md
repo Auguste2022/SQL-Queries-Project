@@ -3,4 +3,4 @@ This repository houses a collection of SQL queries and scripts designed to extra
 
 Rockbuster Stealth Data Analysis Project
 Project Description
-Explore the transformative potential of data-driven insights within Rockbuster's operations. Delve into the profound impact these insights can have across various facets of Rockbuster's operations, ultimately enhancing informed decision-making. This project's primary objectives encompass addressing critical business inquiries, extracting valuable insights, and formulating strategic recommendations to guide Rockbuster's future direction.
+Explore the transformative potential of data-driven insights within Rockbuster's operations. Delve into the profound impact these insights can have across various facets of Rockbuster's operations, ultimately enhancing informed decision-making. This project's primary objectives encompass addressing critical business inquiries, extracting valuable insights, and formulating strategic recommendations to guide Rockbuster's future direction. 
