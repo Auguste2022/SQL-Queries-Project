@@ -24,9 +24,11 @@ Deliver insights that can guide the company's 2020 strategies.
 Leverage visualizations to present actionable informatioin for decision making.
 
 Data Sources
+
 The Rockbuster Stealth Data Analysis Project relies on the data set that contain information about Rockbuster's film inventory, customers, and payments, among other things.
 
 Data Analysis Process
+
 The data analysis process involves the following steps and techniques use SQL:
 Write SQL queries to organiza and sort data.
 Filter and order data using the WHERE and HAVING clauses.
@@ -36,7 +38,21 @@ Performing subqueries to answer complex Rockbuster Stealth Management Board ques
 Rewrite subqueries as CTE
 
 Presenting SQL Results.
+
 Create visualizations of SQL results.
 Create a presentation of findings.
+
+Tableau Links
+https://public.tableau.com/app/profile/auguste.shikongo/viz/SalesAcrossGeographiccountries/Sheet1?publish=yes
+
+https://public.tableau.com/app/profile/auguste.shikongo/viz/HighLifetimeValueCustomers_16925866924940/Sheet1?publish=yes
+
+https://public.tableau.com/app/profile/auguste.shikongo/viz/CustomerGeography/Sheet1?publish=yes
+
+https://public.tableau.com/app/profile/auguste.shikongo/viz/Topcountriesbycustomersnumbers/Sheet1?publish=yes
+
+https://public.tableau.com/app/profile/auguste.shikongo/viz/Topcitiesbycustomersnumber/Sheet1?publish=yes
+![image](https://github.com/Auguste2022/SQL-Queries-Project/assets/147554260/f00dfef8-658f-4a52-8c20-f02b7dffcbf8)
+
 
 
