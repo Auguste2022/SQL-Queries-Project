@@ -1,48 +1,34 @@
-# SQL-Queries- Rockbuster Stealth Data Analysis Project
-This repository houses a collection of SQL queries and scripts designed to extract, manipulate, and analyze data from Rockbuster's Stealth Data Analysis. Explore a variety of structured queries for data retrieval and transformation.
+# Rockbuster Stealth Data Analysis
 
-Rockbuster Stealth Data Analysis Project
+## Introduction
+Rockecbuster is a movie rental company with a global presence. Faced with formidable competition from streaming giants like Netflix and Amazon Prime, the Rockbuster Stealth management team is strategizing to leverage their existing movie licenses by launching online video rental service to maintain competitiveness.
 
-Is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
+## Project Description
+This project aims to explore the transformative power of data-driven insights within Rockbuster’s operations. By delving into these insights, we aim to profoundly impact various aspects of Rockbuster’s  operarions, ultimately enhancing informed decision-making. The primary objectives include addressing critical business inquiries, extracting valuable insights, and formulating strategic recommendations to guide Rockbuster’s future direction.
 
-Project Description
+## Key Questions from Rockbuster Stealth Management Board.
+    • Which movies generated the most/least revenue?
+    • What is the average rental duration for all videos?
+    • In which countries are Rockebuster customers located?
+    • Where are customers with high lifetime value based?
+    • Do sales figures differ between geographic regions?
 
-Explore the transformative potential of data-driven insights within Rockbuster's operations. Delve into the profound impact these insights can have across various facets of Rockbuster's operations, ultimately enhancing informed decision-making. This project's primary objectives encompass addressing critical business inquiries, extracting valuable insights, and formulating strategic recommendations to guide Rockbuster's future direction. 
+## Objectives
+    • Provide data-driven answers to the above questions
+    • Deliver insights to guide the company’s 2020 strategies.
+    • Utilize visualizations to present actionable information for decision-making
 
-Key Questions From Rockbuster Stealth Management Board.
+## Data Sources
+The Rockbuster Stealth Data Analysis Project relies on datasets containing information about Rockbuster’s film inventory, customers, payments, and more.
 
-Which movies contributed teh most/least revenue?
-What was the average rental duration for all videos?
-Which countries are Rockbuster customers based in?
-Where are customers with a high lifetime value based?
-Do sales figures vary between geographic regions?
-
-Objectives
-
-Provide data driven answers to the above questions.
-Deliver insights that can guide the company's 2020 strategies.
-Leverage visualizations to present actionable informatioin for decision making.
-
-Data Sources
-
-The Rockbuster Stealth Data Analysis Project relies on the data set that contain information about Rockbuster's film inventory, customers, and payments, among other things.
-
-Data Analysis Process
-
-The data analysis process involves the following steps and techniques use SQL:
-Write SQL queries to organiza and sort data.
-Filter and order data using the WHERE and HAVING clauses.
-Summarizing and cleaning data in SQL.
-Use SQL to join tables.
-Performing subqueries to answer complex Rockbuster Stealth Management Board quesions.
-Rewrite subqueries as CTE
-
-Presenting SQL Results.
-
-Create visualizations of SQL results.
-Create a presentation of findings.
-
-Tableau Links
+## Data Analysis Process
+The data analysis process entails the following steps and techniques using SQL.
+    • Writing SQL queries to organize and sort data.
+    • Filtering and ordering data using the WHERE and HAVING clauses.
+    • Summarizing and cleaning data in SQL.
+    • Using SQL to join tables.
+    • Employing subqueries to address complex Rockbuster Stealth Management Board questions.
+    • Rewriting subqueries as Common Table Expressions (CTEs)
 
 
 
